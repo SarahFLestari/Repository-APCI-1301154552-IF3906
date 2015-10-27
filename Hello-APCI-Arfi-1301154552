@@ -9,3 +9,4 @@
                 Writeln(‘Arfi’); //Ubah untuk menampilkan Nama Asprak Anda
                 Writeln(‘1301154566’); //Ubah untuk menampilkan NIM teman anda
                 Writeln(‘Modul 6’); //Ubah untuk menampilkan string ‘Modul 6
+End
